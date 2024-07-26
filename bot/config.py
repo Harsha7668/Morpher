@@ -9,20 +9,20 @@ dirName = os.path.basename(dirPath)
 
 
 class TG_CONFIG:
-    api_id = 
+    api_id = 10811400
 
-    api_hash = ""
+    api_hash = "191bf5ae7a6c39771e7b13cf4ffd1279"
 
-    bot_token = ""
+    bot_token = "7412278588:AAFKWhBga4p9sqXT9OcaYt41nQz14IVmQyA"
 
     #DEVS or #OWNERS
-    sudo_users = [1984763765, 6360672597]
+    sudo_users = [6469754522, -1002173560131]
 
-    session = "conan76_web_dl_bot"
+    session = "Sunrises_24_web_dl_bot"
 
-    bot_creater = "Conan76"  # Don't Remove if you Respect the DEV
+    bot_creater = "Sunrises_24"  # Don't Remove if you Respect the DEV
 
-    bot_creater_id = "@conan7612"  # Don't Remove if you Respect the DEV
+    bot_creater_id = "@Sunrises_24"  # Don't Remove if you Respect the DEV
 
 
 class UPLOAD_CONGIF:
