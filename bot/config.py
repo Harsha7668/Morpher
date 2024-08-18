@@ -13,7 +13,7 @@ class TG_CONFIG:
 
     api_hash = "191bf5ae7a6c39771e7b13cf4ffd1279"
 
-    bot_token = "7412278588:AAFKWhBga4p9sqXT9OcaYt41nQz14IVmQyA"
+    bot_token = "7412278588:AAHmk19iP3uK79OglBISjicbl70TD6i9wEc"
 
     #DEVS or #OWNERS
     sudo_users = [6469754522, -1002173560131]
@@ -32,10 +32,10 @@ class UPLOAD_CONGIF:
 
 class GDRIVE_CONFIG:
     #for Gdrive (Leave it as Empty String if not Gdrive Upload is turned ON)
-    root_folder_id = ""
+    root_folder_id = "161TCoFX8hIsjguxLQEm7SbeNKHZzofF1"
 
     #keep it empty if you don't have index link or don't touch
-    indexlink_format = "https://example.workers.dev//0:/{}/{}"
+    indexlink_format = "https://sunrisesharsha.sunriseseditsoffical249.workers.dev/0:/{}/{}"
 
     is_making_drive_files_public = True
 
